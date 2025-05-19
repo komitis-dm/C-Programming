@@ -1,0 +1,10 @@
+First Name:         Last Name:          Rank:
+Michael             Scott               Regional Manager
+Jim                 Halpert             Sales Representative
+Pam                 Beasly              Receptionist
+Dwight              Schrute             Assistant to the Regional Manager
+Creed               Braton              Quality Assurance
+Andy                Bernard             Sales Representative
+Angela              Martin              Senior Accountant
+Oscar               Martinez            Senior Accountant
+Kevin               Malone              Accountant

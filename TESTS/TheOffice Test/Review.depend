@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612881101 source:g:\dimitrios\documents\uom\codeblocks\tests\review\review.c
+	<stdio.h>
+	"simpio.h"
+	"string.h"
+
+1612881385 source:g:\dimitrios\documents\uom\codeblocks\tests\theoffice\review.c
+	<stdio.h>
+	"simpio.h"
+	"string.h"
+

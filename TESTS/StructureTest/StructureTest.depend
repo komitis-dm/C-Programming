@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610294766 source:g:\dimitrios\documents\uom\codeblocks\tests\structuretest\structuretest.c
+	<stdio.h>
+	"simpio.h"
+	"string.h"
+

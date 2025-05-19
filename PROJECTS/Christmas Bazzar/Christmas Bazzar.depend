@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606758443 source:g:\dimitrios\documents\university of macedonia\1st term\codeblocks\projects\christmas bazzar\christmas bazzar.c
+	<stdio.h>
+	"simpio.h"
+
+1608238471 source:g:\dimitrios\documents\uom\codeblocks\christmas bazzar\christmas bazzar.c
+	<stdio.h>
+	"simpio.h"
+

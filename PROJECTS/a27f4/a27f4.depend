@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605960286 source:g:\dimitrios\documents\uom\codeblocks\projects\a27f4\a27f4.c
+	<stdio.h>
+	"simpio.h"
+
+1605963886 source:g:\dimitrios\documents\uom\codeblocks\procedural programming\projects\a27f4\a27f4.c
+	<stdio.h>
+	"simpio.h"
+

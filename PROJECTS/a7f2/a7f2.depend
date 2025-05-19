@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604316491 source:g:\dimitrios\documents\uom\c(codeblocks)\projects\a7f2\a7f2.c
+	<stdio.h>
+	"simpio.h"
+

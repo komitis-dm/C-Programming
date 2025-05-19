@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610967583 source:g:\dimitrios\documents\uom\codeblocks\projects\a2f9\a2f9.c
+	<stdio.h>
+	"simpio.h"
+	"genlib.h"
+	"string.h"
+

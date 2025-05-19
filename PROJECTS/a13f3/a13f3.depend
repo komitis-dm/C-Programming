@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605001927 source:g:\dimitrios\documents\uom\c(codeblocks)\projects\a13f3\a13f3.c
+	<simpio.h>
+	"stdio.h"
+	"genlib.h"
+

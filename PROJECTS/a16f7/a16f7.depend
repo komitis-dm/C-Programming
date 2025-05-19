@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609158398 source:c:\users\dkomi\documents\uom(mobile)\codeblocks\projects\a16f7\a16f7.c
+	<stdio.h>
+	"simpio.h"
+	"ctype.h"
+	"string.h"
+

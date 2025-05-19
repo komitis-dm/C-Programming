@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606734296 source:g:\dimitrios\documents\university of macedonia\1st term\codeblocks\projects\a11f5\a11f5.c
+	<stdio.h>
+	"simpio.h"
+	"math.h"
+
